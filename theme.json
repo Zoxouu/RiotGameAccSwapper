@@ -1,0 +1,15 @@
+{
+    "g_text_color": "#f2efec",
+    "g_1_bg_color": "#242424",
+    "g_1_hover_color": "#0F0F0F",
+    "g_2_bg_color": "#2b2b2b",
+    "g_line_color": "#f2efec",
+    "g_button_color": "#e0e0e0",
+    "g_button_hover_color": "#bfbfbf",
+    "g_button_text_color": "#0F0F0F",
+    "g_button_line_color": "#808080",
+    "g_progress_color": "blue",
+    "g_frame_in_frame_color": "#333333",
+    "theme": "dark",
+    "font": "Meiryo UI"
+}
